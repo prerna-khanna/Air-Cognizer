@@ -69,6 +69,6 @@ We would like to thank our mentors, Dr. Aakanksha Chowdhery and Prof. Brejesh La
 
 [Blog](https://bit.ly/AirCognizerBlog)
 
-##Authors
+## Authors
 [Prerna Khanna](http://bit.ly/KhannaPrerna) and [Tanmay srivastava](http://bit.ly/tanmaySrivastava)
 
