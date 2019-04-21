@@ -1,4 +1,6 @@
 [![](https://img.youtube.com/vi/sBTqLHA95rs/0.jpg)](https://www.youtube.com/watch?v=sBTqLHA95rs)
+
+# Air Cognizer: Predicting Air Quality with Smartphone Camera Images
 ## Inspiration
 Large cities like Delhi can suffer from air pollution, especially in winter, and we’ve seen headlines like **“Cold Morning In Delhi, Air Quality Continues To Be Severe”** appear on the front page of newspapers.
 As engineering students, we strive to use technology for social good. A crucial first step in solving the air pollution problem is to **enable citizens to gauge the quality of air they breathe**.
@@ -34,8 +36,9 @@ ML Kit solved this problem for providing custom updates and deploying these mode
 We incorporated a **Skyline estimation model** using TensofFlow Hub by retraining the Mobile Net architecture on our our custom skyline and non skyline classes. 
 
 ## Accomplishments that we're proud of
-1. The project was covered by major newspapers creating an awareness among the people. 
-![Use your phone camera for real-time pollution check.](https://www.thehindubusinessline.com/news/science/use-your-phone-camera-for-real-time-pollution- check/article25426953.ece)
+1. The project was covered by major newspapers creating an awareness among the people.
+[The Hindu. ](https://www.thehindubusinessline.com/news/science/use-your-phone-camera-for-real-time-pollution-check/article25426953.ece)
+[NDTV.](https://gadgets.ndtv.com/apps/news/delhi-air-pollution-college-students-develop-app-to-measure-air-quality-1943152)
 
 2.  Application was launched on Play Store on November 1st ’18 and was trending on 1st place during Diwali (7th 
      November) time under weather applications.  
@@ -55,4 +58,11 @@ We intend to make the following improvements to improve the application in futur
 1. Generate results on photos taken at **night**.
 2. Extend **reachability** to other major cities.
 3. Make the model **robust** in various weather conditions.
+
+## Follow our Project:
+[PlayStore](https://bit.ly/AirCognizer)
+
+[Website](https://bit.ly/Air_Cognizer)
+
+[Blog](https://bit.ly/AirCognizerBlog)
 
