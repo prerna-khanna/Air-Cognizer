@@ -35,7 +35,7 @@ We incorporated a **Skyline estimation model** using TensofFlow Hub by retrainin
 
 ## Accomplishments that we're proud of
 1. The project was covered by major newspapers creating an awareness among the people. 
-![Use your phone camera for real-time pollution check.] (https://www.thehindubusinessline.com/news/science/use-your-phone-camera-for-real-time-pollution- check/article25426953.ece)
+![Use your phone camera for real-time pollution check.](https://www.thehindubusinessline.com/news/science/use-your-phone-camera-for-real-time-pollution- check/article25426953.ece)
 
 2.  Application was launched on Play Store on November 1st ’18 and was trending on 1st place during Diwali (7th 
      November) time under weather applications.  
