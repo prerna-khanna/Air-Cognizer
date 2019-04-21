@@ -8,7 +8,7 @@ As engineering students, we strive to use technology for social good. A crucial 
 This could be done with pollution sensors — although they can be expensive to deploy at scale. Our goal was to develop an Android-based mobile application to provide inexpensive, localized and real-time air quality estimation using smartphone camera images.
 
 ## What it does
-The application we developed collects images from the camera on the mobile phone, and processes them on-device to extract a few image based features, then using TensorFlow Lite these features provide an Air Quality Index (AQI) estimate. As of now it is available for **New Delhi, India** only on PLay Store. 
+The application we developed collects images from the camera on the mobile phone, and processes them on-device to extract a few image based features, then using TensorFlow Lite these features provide an Air Quality Index (AQI) estimate. As of now it is available for **New Delhi, India** only on Play Store. 
 
 ## How we built it
 First we prepared a data set of 5000 images captured in Delhi with their ground truth as the AQI levels measured from portable air quality meter. 
