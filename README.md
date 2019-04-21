@@ -1,4 +1,4 @@
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=sBTqLHA95rs)
+[![](https://img.youtube.com/vi/sBTqLHA95rs/0.jpg)](https://www.youtube.com/watch?v=sBTqLHA95rs)
 ## Inspiration
 Large cities like Delhi can suffer from air pollution, especially in winter, and we’ve seen headlines like **“Cold Morning In Delhi, Air Quality Continues To Be Severe”** appear on the front page of newspapers.
 As engineering students, we strive to use technology for social good. A crucial first step in solving the air pollution problem is to **enable citizens to gauge the quality of air they breathe**.
@@ -23,7 +23,8 @@ We describe the system in detail below:
 We combine the results with a temporal **Meteorological Parameter based model** which has inputs to it as: concentration of gases like SO2, C02, O3 and humidity of the users' location.
 This helps achieve higher inference accuracy and give reliable results to the user while the image-based machine learning model is being trained.
 
-![System Architecture] (C:\Users\HP\Desktop\video\trans.png)
+![System Architecture](https://user-images.githubusercontent.com/35433654/56471792-36ce8980-6474-11e9-8643-e4c834debab0.png)
+
 
 ## Challenges we ran into
 1. **Deploying a custom model** for every device, keeping in mind the different camera specifications and providing custom updates for different users.
