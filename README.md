@@ -59,7 +59,7 @@ We intend to make the following improvements to improve the application in futur
 2. Extend **reachability** to other major cities.
 3. Make the model **robust** in various weather conditions.
 
-## Follow our Project:
+## Follow our Project
 [PlayStore](https://bit.ly/AirCognizer)
 
 [Website](https://bit.ly/Air_Cognizer)
