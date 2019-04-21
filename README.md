@@ -60,7 +60,7 @@ We intend to make the following improvements to improve the application in futur
 3. Make the model **robust** in various weather conditions.
 
 ## Acknowledgements
-We would like to thank our mentors, Dr. Aakanksha Chowdhery and Prof. Brejesh Lall for their guidance and constant encouragement during the course of the project. We would also like to thank Marconi Society for sponsoring Celestini Project India. 
+We would like to thank our mentors, [Dr. Aakanksha Chowdhery, Google Brain](http://www.achowdhery.com/) and [Prof. Brejesh Lall, IIT, Delhi](http://ee.iitd.ernet.in/people/brijeshlall.html) for their guidance and constant encouragement during the course of the project. We would also like to thank Marconi Society for sponsoring Celestini Project India. 
 
 ## Follow our Project
 [PlayStore](https://bit.ly/AirCognizer)
