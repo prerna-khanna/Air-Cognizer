@@ -1,3 +1,4 @@
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=sBTqLHA95rs)
 ## Inspiration
 Large cities like Delhi can suffer from air pollution, especially in winter, and we’ve seen headlines like **“Cold Morning In Delhi, Air Quality Continues To Be Severe”** appear on the front page of newspapers.
 As engineering students, we strive to use technology for social good. A crucial first step in solving the air pollution problem is to **enable citizens to gauge the quality of air they breathe**.
