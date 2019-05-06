@@ -38,10 +38,10 @@ We incorporated a **Skyline estimation model** using TensofFlow Hub by retrainin
 ## Accomplishments that we're proud of
 1. The project was covered by major newspapers creating an awareness among the people.
 [The Hindu. ](https://www.thehindubusinessline.com/news/science/use-your-phone-camera-for-real-time-pollution-check/article25426953.ece)
-[NDTV.](https://gadgets.ndtv.com/apps/news/delhi-air-pollution-college-students-develop-app-to-measure-air-quality-1943152)
+[NDTV.](https://gadgets.ndtv.com/apps/news/delhi-air-pollution-college-students-develop-app-to-measure-air-quality-1943152) and featured in a [guest blog](https://bit.ly/AirCognizerBlog) post for **TensorFlow** on Mediun.
 
-2.  Application was launched on Play Store on November 1st ’18 and was trending on 1st place during Diwali (7th 
-     November) time under weather applications.  
+2.  Application was launched on Play Store on 1 November 2018 and was trending on 1st place during Diwali (7th 
+     November) time under weather applications.   
 
 3. We received a positive feedback and constructive appreciation from residents of Delhi through comments on Play 
     Store and mails. One of the users’ comment :
