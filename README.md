@@ -36,9 +36,8 @@ ML Kit solved this problem for providing custom updates and deploying these mode
 We incorporated a **Skyline estimation model** using TensofFlow Hub by retraining the Mobile Net architecture on our our custom skyline and non skyline classes. 
 
 ## Accomplishments that we're proud of
-1. The project was covered by major newspapers creating an awareness among the people.
-[The Hindu. ](https://www.thehindubusinessline.com/news/science/use-your-phone-camera-for-real-time-pollution-check/article25426953.ece)
-[NDTV.](https://gadgets.ndtv.com/apps/news/delhi-air-pollution-college-students-develop-app-to-measure-air-quality-1943152) and featured in a [guest blog](https://bit.ly/AirCognizerBlog) post for **TensorFlow** on Mediun.
+1. The project was covered by major newspapers [The Hindu. ](https://www.thehindubusinessline.com/news/science/use-your-phone-camera-for-real-time-pollution-check/article25426953.ece)
+[NDTV.](https://gadgets.ndtv.com/apps/news/delhi-air-pollution-college-students-develop-app-to-measure-air-quality-1943152) and featured in a [guest blog](https://bit.ly/AirCognizerBlog) post for **TensorFlow** on Medium thereby **creating an awareness** among the people.
 
 2.  Application was launched on Play Store on 1 November 2018 and was trending on 1st place during Diwali (7th 
      November) time under weather applications.   
