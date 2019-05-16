@@ -42,9 +42,11 @@ We incorporated a **Skyline estimation model** using TensofFlow Hub by retrainin
 [NDTV.](https://gadgets.ndtv.com/apps/news/delhi-air-pollution-college-students-develop-app-to-measure-air-quality-1943152) and featured in a [guest blog](https://bit.ly/AirCognizerBlog) post for **TensorFlow** on Medium thereby **creating an awareness** among the people.
 
 3.  Application was launched on Play Store on 1 November 2018 and was trending on 1st place during Diwali (7th 
-     November) time under weather applications.   
+     November) time under weather applications.  
 
-4. We received a positive feedback and constructive appreciation from residents of Delhi through comments on Play 
+4. We have a active user base of **1600 devices** with about **30 daily active users**.
+
+5. We received a positive feedback and constructive appreciation from residents of Delhi through comments on Play 
     Store and mails. One of the users’ comment :
 
       _“When you walk out of home in Delhi, Air Quality does not seem as it is. The sky look clear and 
