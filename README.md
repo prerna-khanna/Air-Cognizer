@@ -18,7 +18,7 @@ Then we trained an **Image based AQI estimation model** on cloud.
 We describe the system in detail below:
 1. **The Mobile Application**. This is used to capture images and predict AQI levels. The application processes images on-device.
 2. **TensorFlow Lite** is used to power on-device inference, in a small binary size (which is important for download speed, when bandwidth is limited) for the trained machine learning model.
-3. **Firebase**. Parameters extracted from the images (described below) are sent to Firebase. Whenever a new user uses the app, a unique ID is created for them. This can be used later to customize the machine-learning model for different geo-locations and variety of smartphone cameras.
+3. **Firebase**. Parameters extracted from the images are sent to Firebase. Whenever a new user uses the app, a unique ID is created for them. This can be used later to customize the machine-learning model for different geo-locations and variety of smartphone cameras.
 4. **Amazon EC2**. We train our models here, using these parameters and the PM values from the geo-location.
 5. **ML Kit**. Trained, custom models for different smartphones are hosted on ML Kit, and automatically downloaded on to the device, then run with TensorFlow Lite.
 
@@ -33,7 +33,7 @@ This helps achieve higher inference accuracy and give reliable results to the us
 ML Kit solved this problem for providing custom updates and deploying these models. 
 
 2. Initially when the application was launched people started to click images indoors to check AQI, while our model works only with a skyline.
-We incorporated a **Skyline estimation model** using TensofFlow Hub by retraining the Mobile Net architecture on our our custom skyline and non skyline classes. 
+We incorporated a **Skyline estimation model** using TensorFlow Hub by retraining the Mobile Net architecture on our our custom skyline and non skyline classes. 
 
 ## Accomplishments that we're proud of
 1. We have achieved a good accuracy with **RMSE error less than 10%**.
